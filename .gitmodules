@@ -1,0 +1,21 @@
+[submodule "00-Marginalia-and-Notes"]
+	path = 00-Marginalia-and-Notes
+	url = https://github.com/djaysnider/00-Marginalia-and-Notes
+[submodule "01-The-Halferne-Perfidy"]
+	path = 01-The-Halferne-Perfidy
+	url = https://github.com/djaysnider/01-The-Halferne-Perfidy
+[submodule "02-The-Halferne-Incubus"]
+	path = 02-The-Halferne-Incubus
+	url = https://github.com/djaysnider/02-The-Halferne-Incubus
+[submodule "03-The-Halferne-Deception"]
+	path = 03-The-Halferne-Deception
+	url = https://github.com/djaysnider/03-The-Halferne-Deception
+[submodule "04-The-Halferne-Expedition"]
+	path = 04-The-Halferne-Expedition
+	url = https://github.com/djaysnider/04-The-Halferne-Expedition
+[submodule "05-The-Halferne-Imprecation"]
+	path = 05-The-Halferne-Imprecation
+	url = https://github.com/djaysnider/05-The-Halferne-Imprecation
+[submodule "06-The-Halferne-Bodhi"]
+	path = 06-The-Halferne-Bodhi
+	url = https://github.com/djaysnider/06-The-Halferne-Bodhi
