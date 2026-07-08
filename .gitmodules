@@ -19,3 +19,24 @@
 [submodule "06-The-Halferne-Bodhi"]
 	path = 06-The-Halferne-Bodhi
 	url = https://github.com/djaysnider/06-The-Halferne-Bodhi
+[submodule "07-The-Malyon-Gambit"]
+	path = 07-The-Malyon-Gambit
+	url = https://github.com/djaysnider/07-The-Malyon-Gambit
+[submodule "08-The-Auria-Descension"]
+	path = 08-The-Auria-Descension
+	url = https://github.com/djaysnider/08-The-Auria-Descension
+[submodule "09-The-Notosia-Trinity"]
+	path = 09-The-Notosia-Trinity
+	url = https://github.com/djaysnider/09-The-Notosia-Trinity
+[submodule "10-The-Prevo-Contingency"]
+	path = 10-The-Prevo-Contingency
+	url = https://github.com/djaysnider/10-The-Prevo-Contingency
+[submodule "11-The-Korab-Repraisal"]
+	path = 11-The-Korab-Repraisal
+	url = https://github.com/djaysnider/11-The-Korab-Repraisal
+[submodule "12-The-Prytanus-Liberation"]
+	path = 12-The-Prytanus-Liberation
+	url = https://github.com/djaysnider/12-The-Prytanus-Liberation
+[submodule "13-Apocrypha"]
+	path = 13-Apocrypha
+	url = https://github.com/djaysnider/13-Apocrypha
