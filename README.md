@@ -1,4 +1,4 @@
-# The Halferne Saga (Draft Repository)
+# The Perichore Epic (Draft Repository)
 
 > **Status:** Under active development. Enter at your own risk.
 
