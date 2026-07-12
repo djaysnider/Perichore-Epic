@@ -29,6 +29,7 @@ Traditional version names eventually become:
 ```
 Perfidy_Final.docx
 Perfidy_Final2.docx
+Perfidy_Final_Golden_Edit.docx
 Perfidy_Final_Really.docx
 Perfidy_Final_Final.docx
 Perfidy_UseThisOne.docx
