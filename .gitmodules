@@ -1,9 +1,11 @@
 [submodule "00-Marginalia-and-Notes"]
 	path = 00-Marginalia-and-Notes
 	url = https://github.com/djaysnider/00-Marginalia-and-Notes
+	branch = main
 [submodule "01-The-Halferne-Perfidy"]
 	path = 01-The-Halferne-Perfidy
 	url = https://github.com/djaysnider/01-The-Halferne-Perfidy
+	branch = main
 [submodule "02-The-Halferne-Incubus"]
 	path = 02-The-Halferne-Incubus
 	url = https://github.com/djaysnider/02-The-Halferne-Incubus
@@ -19,27 +21,36 @@
 [submodule "05-The-Halferne-Imprecation"]
 	path = 05-The-Halferne-Imprecation
 	url = https://github.com/djaysnider/05-The-Halferne-Imprecation
+	branch = main
 [submodule "06-The-Halferne-Bodhi"]
 	path = 06-The-Halferne-Bodhi
 	url = https://github.com/djaysnider/06-The-Halferne-Bodhi
+	branch = main
 [submodule "07-The-Malyon-Gambit"]
 	path = 07-The-Malyon-Gambit
 	url = https://github.com/djaysnider/07-The-Malyon-Gambit
+	branch = main
 [submodule "08-The-Auria-Descension"]
 	path = 08-The-Auria-Descension
 	url = https://github.com/djaysnider/08-The-Auria-Descension
+	branch = main
 [submodule "09-The-Notosia-Trinity"]
 	path = 09-The-Notosia-Trinity
 	url = https://github.com/djaysnider/09-The-Notosia-Trinity
+	branch = main
 [submodule "10-The-Prevo-Contingency"]
 	path = 10-The-Prevo-Contingency
 	url = https://github.com/djaysnider/10-The-Prevo-Contingency
+	branch = main
 [submodule "11-The-Korab-Repraisal"]
 	path = 11-The-Korab-Repraisal
 	url = https://github.com/djaysnider/11-The-Korab-Repraisal
+	branch = main
 [submodule "12-The-Prytanus-Liberation"]
 	path = 12-The-Prytanus-Liberation
 	url = https://github.com/djaysnider/12-The-Prytanus-Liberation
+	branch = main
 [submodule "13-Apocrypha"]
 	path = 13-Apocrypha
 	url = https://github.com/djaysnider/13-Apocrypha
+	branch = main
