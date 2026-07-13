@@ -7,12 +7,15 @@
 [submodule "02-The-Halferne-Incubus"]
 	path = 02-The-Halferne-Incubus
 	url = https://github.com/djaysnider/02-The-Halferne-Incubus
+	branch = main
 [submodule "03-The-Halferne-Deception"]
 	path = 03-The-Halferne-Deception
 	url = https://github.com/djaysnider/03-The-Halferne-Deception
+	branch = main
 [submodule "04-The-Halferne-Expedition"]
 	path = 04-The-Halferne-Expedition
 	url = https://github.com/djaysnider/04-The-Halferne-Expedition
+	branch = main
 [submodule "05-The-Halferne-Imprecation"]
 	path = 05-The-Halferne-Imprecation
 	url = https://github.com/djaysnider/05-The-Halferne-Imprecation
