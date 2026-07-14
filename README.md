@@ -4,10 +4,11 @@
 
 Welcome to the workshop.
 
-This repository contains the complete working draft of **The Halferne Saga**: twelve interconnected novels, assorted background material, timelines, worldbuilding notes, character sketches, continuity documents, and the occasional reminder to myself that seemed perfectly obvious at three o'clock in the morning.
+This repository contains the complete working drafts of what will one day be twelve interconnected novels across two series, assorted background material, timelines, worldbuilding notes, character sketches, continuity documents, and the occasional reminder to myself that seemed perfectly obvious at three o'clock in the morning.
 
 If you're looking for polished prose, you'll eventually get there.
 If you're looking for how a large science-fiction universe is actually built, congratulations—you've just wandered backstage.
+If you live for being that guy who knows all the little details nobody else does because they were never actually written or said in the stories, you're going to love it here.
 
 ## What You'll Find
 
@@ -23,9 +24,9 @@ If you're looking for how a large science-fiction universe is actually built, co
 ## What's the Organization Here?
 
 ### The Halferne Anthology
-The “Halferne Anthology” was supposed to be a single book containing six short stories. Just some fun, in-universe backstories to play with when I wanted to stretch into new genres and styles of writing. As with all things, I got ahead of myself: the first three of those short stories are now complete drafts of 70K+ words each, two others are about halfway done, and the last one is just now getting a fresh outline. The goal is to have everything in a “readable draft” state by the end of the year.
+The “Halferne Anthology” was supposed to be a single book containing six short stories. Just some fun, in-universe backstories for the main characteres that I played with when I wanted to stretch into new genres and styles of writing. As with all things, I got ahead of myself: the first three of those short stories are now complete drafts of 75K+ words each, two others are about halfway done, and the last one is just now getting a fresh outline. The goal is to have everything in a “readable draft” state by the end of the year.
 
-The stories all take place in the same universe, in a chronology, but they are in slightly different genres and are standalone, though a tiny through-arc connects them and is resolved at the end of The Halferne Bodhi. The arc is only important as a setup for the next series of six books, so the idea is, each book stands alone or works with the series, and the series itself is standalone or works with the overall saga. Nothing in these is required reading, and is usually summed up in paragraph if something is important later. In that respect, think of them more as the solo movies before all of our heroes met up in The Avengers.
+The stories all take place in the same universe, in a chronology, but they are in slightly different genres and are standalone, though a tiny through-arc connects them and is resolved at the end of The Halferne Bodhi. The arc is only important as a setup for the next series of six books, so the idea is, each book stands alone or works with the series, and the series itself is standalone or works with the overall saga. Nothing in these is required reading, and is usually summed up in paragraph if something is important later. In that respect, think of them more as the Marvel heroes' solo movies before everyone met up in The Avengers, which is the important story everything's building too all along.
 
 ### The Perichore Saga
 Okay, we’re not calling it that, but like William Gibson, I hate coming up with names for series. This one was supposed to be my magnum opus. I’ve been crafting, outlining, and scribbling on it since the spring of 2001, but the story and characters have been in my head since I was playing with action figures as a kid. Now it’s a slightly contradictory, if not completely misaligned, sequel to “The Halferne Anthology.” Where the Anthology was supposed to be backstory, and this was supposed to be the main series, it now feels like yet another space opera, with way too many characters and plots going on, and some bits that flat out contradict the Halferne Anthology.
