@@ -20,6 +20,18 @@ If you're looking for how a large science-fiction universe is actually built, co
 * Ideas that may become brilliant scenes...
 * ...or disappear entirely by next Tuesday.
 
+## What's the Organization Here?
+
+### The Halferne Anthology
+The “Halferne Anthology” was supposed to be a single book containing six short stories. Just some fun, in-universe backstories to play with when I wanted to stretch into new genres and styles of writing. As with all things, I got ahead of myself: the first three of those short stories are now complete drafts of 70K+ words each, two others are about halfway done, and the last one is just now getting a fresh outline. The goal is to have everything in a “readable draft” state by the end of the year.
+
+The stories all take place in the same universe, in a chronology, but they are in slightly different genres and are standalone, though a tiny through-arc connects them and is resolved at the end of The Halferne Bodhi. The arc is only important as a setup for the next series of six books, so the idea is, each book stands alone or works with the series, and the series itself is standalone or works with the overall saga. Nothing in these is required reading, and is usually summed up in paragraph if something is important later. In that respect, think of them more as the solo movies before all of our heroes met up in The Avengers.
+
+### The Perichore Saga
+Okay, we’re not calling it that, but like William Gibson, I hate coming up with names for series. This one was supposed to be my magnum opus. I’ve been crafting, outlining, and scribbling on it since the spring of 2001, but the story and characters have been in my head since I was playing with action figures as a kid. Now it’s a slightly contradictory, if not completely misaligned, sequel to “The Halferne Anthology.” Where the Anthology was supposed to be backstory, and this was supposed to be the main series, it now feels like yet another space opera, with way too many characters and plots going on, and some bits that flat out contradict the Halferne Anthology.
+
+I’m sure I’ll find a way to remake it, even though huge chunks of it are already written.
+
 ## Why Git?
 
 Because novels have versions.
@@ -43,6 +55,14 @@ It also lets me:
 * Experiment without fear.
 * Accept or reject beta-reader suggestions individually.
 * Discover exactly when I introduced a plot hole six months ago.
+
+Unlike Scrivner, Google Docs, or Microsoft Word, it is:
+
+* Portable to almost any Internet-connected device
+* Practical
+* Simple
+* Stable on mobile devices
+* Predictable and reliable about how it synchs branches back up
 
 ## For Beta Readers
 
@@ -105,6 +125,7 @@ Reading random files here is like watching *The Empire Strikes Back* by starting
 Copyright © Darrin Snider.
 
 Please don't redistribute the manuscripts.
+Please don't feed them to AI for summary, suggestions, opinions, or edits.
 
 Feel free to discuss them, critique them, point out continuity errors, and tell me when a chapter kept you up too late because you had to know what happened next.
 
