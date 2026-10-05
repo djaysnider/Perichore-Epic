@@ -50,7 +50,4 @@
 	path = 12-The-Prytanus-Liberation
 	url = https://github.com/djaysnider/12-The-Prytanus-Liberation
 	branch = main
-[submodule "13-Apocrypha"]
-	path = 13-Apocrypha
-	url = https://github.com/djaysnider/13-Apocrypha
-	branch = main
+
