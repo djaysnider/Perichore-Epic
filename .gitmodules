@@ -50,4 +50,11 @@
 	path = 12-The-Prytanus-Liberation
 	url = https://github.com/djaysnider/12-The-Prytanus-Liberation
 	branch = main
-
+[submodule "13-Tales-from-Russos"]
+	path = 13-Tales-from-Russos
+	url = https://github.com/djaysnider/13-Tales-from-Russos
+	branch = main
+[submodule "14-Apocrypha"]
+	path = 14-Apocrypha
+	url = https://github.com/djaysnider/14-Apocrypha
+	branch = main
